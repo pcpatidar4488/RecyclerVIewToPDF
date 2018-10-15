@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ToPdf</string>
+    <string name="enter_html">Enter Html:</string>
+    <string name="default_html">
+<![CDATA[
+<html>\n
+\t    <body>\n
+\t\t        <img src="pdf.png" />  \n
+\t    </body>\n
+<html>\n
+]]>
+    </string>
+
+    <string name="default_html2">
+<![CDATA[
+<html>\n
+\t    <body>\n
+
+\t\t        <p>Hello world!</p><br/>\n
+\t\t        <img src="pdf_icon.png" /><br/>\n
+\t\t        Html bitmap\n
+\t    </body>\n
+<html>\n
+]]>
+    </string>
+    <string name="generate_bitmap">Generate bitmap</string>
+    <string name="enter_width">Enter Width</string>
+    <string name="_150">150</string>
+</resources>
